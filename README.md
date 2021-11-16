@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ave851
+- 👀 I’m interested in learning to learn
+- 🌱 I’m currently learning Python3 hello_world.py
